@@ -1,0 +1,5 @@
+
+stripe:
+       public_key: pk_test_51ODQc1A5HFL3LWv73mNO89uEDWIFYnwTDTbvGpzZsM5k8W5m41KHVGeLQ6wvyRCLyvrjvYEgPZQKQiCIGxEhtUas00j2xrNkKE
+       secret_key: sk_test_51ODQc1A5HFL3LWv7zbuvUzzwVNwTnRaD5ajmKgN7ZsjzbhQO0mOLPjpEUYGPonFYADx4C8WYSHlj2piCkhjwLSlJ00EBbqe3UM
+  
