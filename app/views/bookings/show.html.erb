@@ -1,6 +1,6 @@
 <div class="max-w-3xl mx-auto px-4">
   <div class="flex items-center justify-between">
-    <h1 class="flex-1 font-bold text-3xl">Booking</h1>
+    <h1 class="flex-1 font-bold text-3xl">Booking Asolab</h1>
 
     <div class="flex-wrap lg:flex items-center lg:space-x-3">
       <%= link_to bookings_path, class: button_class(theme: "transparent") do %>
@@ -36,10 +36,6 @@
       <li>
         <p class="font-semibold">End at:</p>
         <p><%= @booking.end_at %></p>
-      </li>
-      <li>
-        <p class="font-semibold">Customer paid:</p>
-        <p><%= @booking.customer_paid %></p>
       </li>
   </ul>
 </div>
